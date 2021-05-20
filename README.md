@@ -9,6 +9,7 @@ Sr No | Name | Expert Level | Master Level
 5 | Charchit - @charchit1234| 0 | 0
 6 | UntoldHacker - @UntoldHacker | 0 | 0
 7 | UnknownScripter99 - @UnknownScripter99 | 0 | 0
+8 | Phsyco AJ - @PhsycoAJ | 0 | 0
 
 
 # Links
