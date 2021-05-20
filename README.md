@@ -2,9 +2,9 @@
 
 Sr No | Name | Expert Points | Expert Level
 ------------ | ------------- | ------------- | -------------
-1 | BB Admin @BotsBusinessAdmin| 0 | 0
-2 | Soham Deogaonkar @sohamdeogaonkar1 | 0 | 0
-3 | Master radical- @master_radical | 0 | 0
+1 | BB Admin - @BotsBusinessAdmin| 0 | 0
+2 | Soham Deogaonkar - @sohamdeogaonkar1 | 0 | 0
+3 | Master radical - @master_radical | 0 | 0
 4 | Infinite Gamers - @Infinite_Gamers | 0 | 0
 5 | Charchit - @charchit1234| 0 | 0
 6 | UntoldHacker - @UntoldHacker | 0 | 0
@@ -13,14 +13,14 @@ Sr No | Name | Expert Points | Expert Level
 
 Sr No | Name | Expert Points | Expert Level
 ------------ | ------------- | ------------- | -------------
-1 | BB Admin @BotsBusinessAdmin| 0 | 0
+1 | BB Admin - @BotsBusinessAdmin| 0 | 0
 
 
 # BB Masters List
 
 Sr No | Name | Master Points | Maser Level
 ------------ | ------------- | ------------- | -------------
-1 | BB Admin @BotsBusinessAdmin| 0 | 0
+1 | BB Admin - @BotsBusinessAdmin| 0 | 0
 
 # Links
 
