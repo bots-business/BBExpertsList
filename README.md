@@ -1,6 +1,6 @@
 # BB Experts List
 
-Sr No | Name | Expert Points | Expert Level
+Sr No | Name | Expert Level | Master Level
 ------------ | ------------- | ------------- | -------------
 1 | BB Admin - @BotsBusinessAdmin| 0 | 0
 2 | Soham Deogaonkar - @sohamdeogaonkar1 | 0 | 0
