@@ -1,6 +1,10 @@
-# BB Experts List
+Sir if you want to see 
+that i can edit and create
+a poll list than i can....
 
-## 1. BB Admin @BotsBusinessAdmin
-BB developer, [Expert Help details](https://telegra.ph/Expert-help-from-BB-Admin-05-20)
-@charchit1234
-Best expert
+
+This is examples 
+I want to be a expert 😅
+
+
+Telegram I'd - @charchit1234
