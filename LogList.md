@@ -1,8 +1,8 @@
 # Log History
 
-Points | To | Reason | Date
+Value | Github nick | Reason | Date
 ------------ | ------------- | ------------- | -------------
-+1 EL | @Untoldhacker-Dev | | 
++1 EL | @Untoldhacker-Dev | | 20.05.2021
 +0.1 EL | @Infinite_Gamers | | 
 +0.2 ML | @Infinite_Gamers | | 
 +0.5 EL | @Charchit1234 | | 
@@ -21,3 +21,4 @@ Points | To | Reason | Date
 +2 EL | sohamdeogaonkar | |  
 +0.5 EL | killerbhai | |  
 +0.2 ML | killerbhai | |  
++1 EL | ShadabAlam786 | | 21.05.2021
