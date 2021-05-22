@@ -12,7 +12,7 @@ Sr No | Name | Expert Level | Master Level
 8 | UnknownScripter99 - @UnknownScripter99 | 0 | 0
 9 | Phsyco AJ - @PhsycoAJ | 0 | 0
 10 | Radin - @Radin_X | 0 | 0
-
+11 | CoderNinja - @CoderNinja |0|0
 # Links
 
 * [Expert Chat Link](https://t.me/joinchat/-2PQVAh1P444Njky)
