@@ -18,3 +18,4 @@ Sr No | Name | Expert Level | Master Level
 * [Expert Chat Link](https://t.me/joinchat/-2PQVAh1P444Njky)
 * [Expert Help details](https://telegra.ph/Expert-help-from-BB-Admin-05-20)
 * [Expert Quests](https://telegra.ph/BB-Experts-Expert-Quest-05-20)
+* [Current Expert Tasks List](https://github.com/bots-business/BBExpertsList/issues)
